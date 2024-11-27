@@ -1,7 +1,7 @@
 ## Hi there, I'm Paolo! 👋
 
 - 🎓 I’m currently a student at ITS Alto Adriatico, PN
-- ❓ I’m looking for help with SvelteKit & Figma
+- ❓ I’m looking for help with SvelteKit, Figma & Cloudlfare
 
 ### Languages
 
