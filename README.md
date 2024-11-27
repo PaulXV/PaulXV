@@ -1,6 +1,7 @@
 ## Hi there, I'm Paolo! 👋
 
 - 🎓 I’m currently a student at ITS Alto Adriatico, PN
+- ⚒️ Intership at PMP Industries
 - ❓ I’m looking for help with SvelteKit, Figma & Cloudlfare
 
 ### Languages
