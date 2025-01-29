@@ -3,6 +3,7 @@
 - 🎓 I’m currently a student at ITS Alto Adriatico, PN
 - ⚒️ Intership at PMP Industries S.p.A.
 - ❓ I’m looking for help with SvelteKit & Figma
+- 📚 Currently learning by myself React & Tailwind
 
 ### Languages
 
