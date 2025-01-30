@@ -3,7 +3,9 @@
 - 🎓 I’m currently a student at ITS Alto Adriatico, PN
 - ⚒️ Intership at PMP Industries S.p.A.
 - ❓ I’m looking for help with SvelteKit & Figma
-- 📚 Currently learning by myself React, Tailwind & GraphQL
+- 📚 Currently learning by myself: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width='15'/> React,
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='15'/> Tailwind
+& <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width='15'/> GraphQL
 
 ### Languages
 
