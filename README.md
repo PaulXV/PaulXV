@@ -22,3 +22,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=PaulXV&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PaulXV&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulXV&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulXV/PaulXV/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulXV/PaulXV/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PaulXV/PaulXV/output/github-snake.svg" />
+</picture>
