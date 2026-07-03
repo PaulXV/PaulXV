@@ -7,6 +7,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='15'/> Tailwind
 & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width='15'/> GraphQL
 
+[![My Website](https://img.shields.io/badge/My_Website-yellow)](https://paulxv.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paolo.brugnola)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-brugnola-91a070332/)
 
