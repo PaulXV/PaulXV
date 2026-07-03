@@ -1,8 +1,8 @@
 ## Hi there, I'm Paolo! 👋
 
-- 🎓 I’m currently a student at ITS Alto Adriatico, PN
-- ⚒️ Intership at PMP Industries S.p.A.
-- ❓ I’m looking for help with SvelteKit
+- 🎓 Just graduated from ITS Alto Adriatico, PN - now a <b>Jr Full-Stack Dev!</b>
+- ⚒️ Working at PMP Industries S.p.A - Software Developer
+- ❓ I’m looking for help with QT/QML
 - 📚 Currently learning by myself: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="15"/> SvelteKit,
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='15'/> Tailwind
 & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width='15'/> GraphQL
